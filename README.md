@@ -6,6 +6,8 @@
 
 ## 课程与实验
 
+[配套教材《结构估计与产业组织》（PDF）](textbook/output/pdf/结构估计与产业组织.pdf)
+
 [14 周课程安排与学习时间](COURSE.md) · [进阶方法讲义](METHODS.md) · [进阶自学材料](ASSIGNMENTS.md)
 
 | 单元 | 实验 |
