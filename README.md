@@ -2,11 +2,11 @@
 
 这是一门面向经济学本科实验班的选修课。从消费者的购买决策出发，学习如何用产品—市场数据识别需求、估计产品间的替代关系，并分析企业重新定价后的反事实。
 
-建议修过中级微观经济学、概率统计、计量经济学和线性代数，并能独立使用 Python 完成基本的数值计算。前五课用于建立基础，进阶实验要求自己写推导、改估计器和解释识别诊断。
+建议修过中级微观经济学、概率统计、计量经济学和线性代数，并能用 Python 完成基本的数值计算。前五课铺垫基础，进阶实验通过推导、编程和识别诊断讲解估计方法。
 
 ## 课程与实验
 
-[14 周课程安排](COURSE.md) · [进阶方法讲义](METHODS.md) · [作业与学期项目](ASSIGNMENTS.md)
+[14 周课程安排与学习时间](COURSE.md) · [进阶方法讲义](METHODS.md) · [进阶自学材料](ASSIGNMENTS.md)
 
 | 单元 | 实验 |
 | --- | --- |
@@ -14,7 +14,7 @@
 | 2. 抽样误差与推断 | [抽样误差、标准误和置信区间](lessons/02-sampling-uncertainty.ipynb) |
 | 3. 多项 Logit 与替代 | [两件商品与不购买选项](lessons/03-multinomial-logit.ipynb) |
 | 4. 价格内生性与识别 | [随机报价与内生报价](lessons/04-price-endogeneity.ipynb) |
-| 5. 定价反事实与入门项目 | [比较两种定价方案](lessons/05-pricing-counterfactual-project.ipynb) |
+| 5. 定价反事实入门 | [比较两种定价方案](lessons/05-pricing-counterfactual-project.ipynb) |
 | 6. 市场份额反演、IV 与 GMM | [聚合 Logit 与两步 GMM](lessons/06-aggregate-logit-iv-gmm.ipynb) |
 | 7. Nested Logit | [份额反演、识别与组内替代](lessons/07-nested-logit.ipynb) |
 | 8. BLP 随机系数需求 | [份额反演与非线性 GMM](lessons/08-blp-demand.ipynb) |
