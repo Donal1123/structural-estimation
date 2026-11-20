@@ -12,7 +12,7 @@
 | --- | --- |
 | 1. 二元 Logit 与极大似然 | [用二元 Logit 估计需求](lessons/01-binary-logit.ipynb) |
 | 2. 抽样误差与推断 | [抽样误差、标准误和置信区间](lessons/02-sampling-uncertainty.ipynb) |
-| 3. 多项 Logit 与替代 | 计划中 |
+| 3. 多项 Logit 与替代 | [两件商品与不购买选项](lessons/03-multinomial-logit.ipynb) |
 | 4. 价格内生性与识别 | 计划中 |
 | 5. 定价反事实与结课项目 | 计划中 |
 
